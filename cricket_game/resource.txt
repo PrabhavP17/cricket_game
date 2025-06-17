@@ -1,0 +1,21 @@
+AI Prompts and Responses
+
+1. Prompt: "Can you make my cricket batting game assign a score (1-6) based on how well-timed the hit is?"
+   Response: Helped develop timing-based scoring logic and improved game interaction.
+
+2. Prompt: "How to add overs selection screen and implement pause functionality in Pygame?"
+   Response: Provided code structure for overs menu, pause screen with event handling.
+
+3. Prompt: "Make the main menu and pause screen look more colorful and appealing."
+   Response: Gave suggestions on color schemes, fonts, and layout for better UI.
+
+4. Prompt: "Write SQL queries to retrieve specific items from a database."
+   Response: Assisted with query syntax and optimization for database operations.
+
+
+Resources Used
+
+- Pygame Documentation: https://www.pygame.org/docs/
+- Python Official Site: https://www.python.org/
+- Stack Overflow: https://stackoverflow.com/
+- Real Python Tutorials: https://realpython.com/
